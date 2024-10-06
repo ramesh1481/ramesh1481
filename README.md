@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🌱 I’m currently learning **Data Engineering Frameworks**
-
+- 📝 My First Blog [https://primegadgetnews.blogspot.com/](https://primegadgetnews.blogspot.com/)
 - 📫 How to reach me **rameshthavam007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh1481&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ramesh1481" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramesh1481&" alt="ramesh1481" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rameshthavam007?theme=dark&font=IBM%20Plex%20Sans%20KR&ext=activity)
