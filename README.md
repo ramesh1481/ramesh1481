@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Engineering Frameworks**
 - 📝 My First Blog [https://primegadgetnews.blogspot.com/](https://primegadgetnews.blogspot.com/)
-- 📫 How to reach me **rameshthavam007@gmail.com**
+- 📫 How to reach me **mailtotrameshbabu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
